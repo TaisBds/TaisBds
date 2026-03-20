@@ -10,6 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Acessar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tais-barbosa-dos-santos-76889b299)
 
+📧 Email: taisbarbosa.senactcsec@gmail.com
+
 [![Email](https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&logo=gmail)](mailto:taisbarbosa.senactcsec@gmail.com)
 
 ---
