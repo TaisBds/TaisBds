@@ -12,7 +12,6 @@
 
 📧 Email: taisbarbosa.senactcsec@gmail.com
 
-[![Email](https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&logo=gmail)](mailto:taisbarbosa.senactcsec@gmail.com)
 
 ---
 
