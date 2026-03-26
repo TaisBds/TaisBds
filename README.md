@@ -27,14 +27,17 @@
 
 ## 🚀 Tecnologias que estou estudando
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=mysql)
-![NoSQL](https://img.shields.io/badge/NoSQL-lightgrey?style=for-the-badge)
-![UX/UI](https://img.shields.io/badge/UX_UI-Design-purple?style=for-the-badge)
+## 🚀 Tecnologias e Ferramentas
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</p>
 ---
 
 ## 📌 Projetos em Destaque
