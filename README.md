@@ -12,18 +12,18 @@
 
 📧 Email: taisbarbosa.senactcsec@gmail.com
 
-
 ---
 
 ## 🎨 Portfólio UX/UI (Figma)
 
 [![Semear](https://img.shields.io/badge/Figma-Semear-purple?style=for-the-badge&logo=figma)](https://www.figma.com/proto/8bkj3pREGlp1KVAyTcg8OD/Semear-Prot%C3%B3tipos?node-id=0-1&t=JHzS5m6vWpuEVdMZ-1)
-
 [![FutureAI](https://img.shields.io/badge/Figma-FutureAI-blueviolet?style=for-the-badge&logo=figma)](https://www.figma.com/proto/AvrLI8ei2cixQNVbW1kKI6/Untitled?node-id=0-1&t=2tnkPIDnYSx0J7vx-1)
-
 [![DigitalTrash](https://img.shields.io/badge/Figma-DigitalTrash-green?style=for-the-badge&logo=figma)](https://www.figma.com/proto/1asAMGakJ99LY3nbgtQDQ5/Untitled?t=2tnkPIDnYSx0J7vx-1)
+[![TechnaVeia](https://img.shields.io/badge/Figma-TechnaVeia-red?style=for-the-badge&logo=figma)](https://www.figma.com/proto/PoDugub9DbuSzwairpmTVy/Untitled?node-id=1-2&p=f&t=6LrhUcxvfeIRKGlo-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[![Sistema de Licitações BB](https://img.shields.io/badge/Figma-Sistema%20de%20Licitações%20BB-003399?style=for-the-badge&logo=figma)](https://www.figma.com/make/2XJrnHOKyudYR2y8wSWtjM/Sistema-de-Licita%C3%A7%C3%B5es?code-node-id=0-9&p=f&t=hprQ9or1GCAMPYVm-0&fullscreen=1&preview-route=%2Fpainel)
 
 ---
+
 ## 🚀 Tecnologias que estou estudando
 
 <p align="left">
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
